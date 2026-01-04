@@ -77,8 +77,8 @@ PyQt Desktop UI (Live Metrics & Visualization)
   PyQt5-based desktop interface for live visualization, metrics display, coaching feed, highlights, and logs.
 
 ---
-**
-## 📁 Project Structure**
+
+## 📁 Project Structure
 
 CRICKET-ANALYZER/
 │
