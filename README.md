@@ -28,7 +28,7 @@ This project demonstrates the practical application of Artificial Intelligence, 
 ## 🖼️ Application Dashboard
 
 <p align="center">
-  <img src="screenshots/cricket_ai_studio_dashboard.png" alt="Cricket AI Studio Pro Dashboard" width="90%">
+  <img src="cricket_ai_studio_dashboard.png" alt="Cricket AI Studio Pro Dashboard" width="90%">
 </p>
 
 **Cricket AI Studio Pro – Enhanced UI/UX**  
