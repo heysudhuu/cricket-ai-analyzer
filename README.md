@@ -147,31 +147,31 @@ python app.py
 ```
 **Usage**
 
-Load a cricket video
+-Load a cricket video
 
-(Optional) Enter target player tracking ID
+-(Optional) Enter target player tracking ID
 
-Start analysis
+-Start analysis
 
-View live metrics and coaching feedback
+-View live metrics and coaching feedback
 
-Review auto-generated highlights
+-Review auto-generated highlights
 
-Export CSV analytics if required
+-Export CSV analytics if required
 
 **🎯 Use Cases**
 
-Cricket performance analysis
+-Cricket performance analysis
 
-Coaching assistance systems
+-Coaching assistance systems
 
-Sports biomechanics research
+-Sports biomechanics research
 
-AI & Computer Vision academic projects
+-AI & Computer Vision academic projects
 
-Portfolio project for internships and higher studies
-**
-👤 Author**
+-Portfolio project for internships and higher studies
+
+**👤 Author**
 
 Sudhanshu Yadav
 Computer Science Engineering
