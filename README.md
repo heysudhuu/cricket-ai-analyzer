@@ -49,8 +49,8 @@ PyQt Desktop UI (Live Metrics & Visualization)
 
 
 ---
-**
-## 🧩 Core Modules**
+
+## 🧩 Core Modules
 
 - **Pose Engine** (`engine/pose_engine.py`)  
   Handles multi-person pose tracking, target locking, joint angle calculation, and weight transfer estimation.
