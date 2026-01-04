@@ -79,7 +79,7 @@ PyQt Desktop UI (Live Metrics & Visualization)
 ---
 
 ## 📁 Project Structure
-
+```
 CRICKET-ANALYZER/
 │
 ├── engine/
@@ -107,7 +107,7 @@ CRICKET-ANALYZER/
 ├── cricket_analysis.csv # Auto-generated analytics file
 └── README.md
 
-
+```
 ---
 
 **## ⚙️ Installation**
