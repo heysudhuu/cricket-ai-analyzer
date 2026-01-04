@@ -110,12 +110,12 @@ CRICKET-ANALYZER/
 ```
 ---
 
-**## ⚙️ Installation**
+**⚙️ Installation**
 
-**### 1️⃣ Clone the Repository**
+**1️⃣ Clone the Repository**
 ```bash
-git clone https://github.com/<your-username>/cricket-analyzer.git
-cd cricket-analyzer
+git clone https://github.com/<heysudhuu>/cricket-ai-analyzer.git
+cd cricket-ai-analyzer
 ```
 **2️⃣ Create a Virtual Environment (Recommended)**
 
