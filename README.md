@@ -25,6 +25,14 @@ This project demonstrates the practical application of Artificial Intelligence, 
 - Desktop application built with PyQt5
 
 ---
+## 🖼️ Application Dashboard
+
+<p align="center">
+  <img src="screenshots/cricket_ai_studio_dashboard.png" alt="Cricket AI Studio Pro Dashboard" width="90%">
+</p>
+
+**Cricket AI Studio Pro – Enhanced UI/UX**  
+Live pose tracking, real-time metrics, AI coaching feedback, automatic highlights, and analytics logging in a single desktop interface.
 
 ## 🧠 System Architecture
 
