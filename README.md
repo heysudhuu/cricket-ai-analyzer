@@ -181,9 +181,9 @@ python app.py
 
 **👤 Author**
 
-Sudhanshu Yadav
-Computer Science Engineering
-AI • Computer Vision • Sports Analytics
+``Sudhanshu Yadav``
+``Computer Science Engineering``
+``AI • Computer Vision • Sports Analytics``
 
 ## 🔗 Connect With Me
 
